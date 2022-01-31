@@ -13,8 +13,8 @@
 let fs = require('fs')
 global.DeveloperMode = 'false' //Buat Mode True False Moderator
 global.linkGC = ['https://chat.whatsapp.com/FtZLBLsLiYo0wjuqZWp1Ey'] // ganti jadi group lu
-global.owner = ['6285695601294', '62856956012941'] // Put your number here
-global.mods = ['62856956012941'] // Want some help?
+global.owner = ['6283141445553', '-'] // Put your number here
+global.mods = ['6283141445553'] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -54,7 +54,7 @@ global.packname = 'MitsuShiba'
 global.author = 'Satu Untuk Semua'
 
 // silakan di ganti klo mau
-global.botwm = 'MitsuShiba Botz'//UBAH JADI NAMAMU
+global.botwm = 'BOTku' Botz'//UBAH JADI NAMAMU
 global.imagebot = `https://telegra.ph/file/793b6accf3758f092742a.jpg`
 global.logo = fs.readFileSync('./src/kanna.jpg')
 global.logoowner = fs.readFileSync('./src/owner.jpg')
